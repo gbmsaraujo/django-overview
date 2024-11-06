@@ -1,0 +1,30 @@
+{% extends 'base.html' %} {% block content %}
+<h1>About</h1>
+<p>template</p>
+
+<p>{{ my_text }}</p>
+<p>{{ my_number }}</p>
+
+<ul>
+    {% for fruit in fruits %}
+    <li>{{fruit}}</li>
+    {% endfor %}
+</ul>
+
+<br/>
+
+
+<h2>Números pares e ímpares</h2>
+<br/>
+
+<ul>
+    {% for number in numbers %}
+    {% if not number|divisibleby:2 %}
+    <li>É impar - {{number}}</li>
+    {% else %}
+    <li>É Par - {{number}}</li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+{% endblock %}

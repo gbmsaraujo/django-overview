@@ -1,0 +1,594 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home_view",
+        "importPath": "pages.views",
+        "description": "pages.views",
+        "isExtraImport": true,
+        "detail": "pages.views",
+        "documentation": {}
+    },
+    {
+        "label": "about_view",
+        "importPath": "pages.views",
+        "description": "pages.views",
+        "isExtraImport": true,
+        "detail": "pages.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact_view",
+        "importPath": "pages.views",
+        "description": "pages.views",
+        "isExtraImport": true,
+        "detail": "pages.views",
+        "documentation": {}
+    },
+    {
+        "label": "social_view",
+        "importPath": "pages.views",
+        "description": "pages.views",
+        "isExtraImport": true,
+        "detail": "pages.views",
+        "documentation": {}
+    },
+    {
+        "label": "product_detail_view",
+        "importPath": "products.views",
+        "description": "products.views",
+        "isExtraImport": true,
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "product_create_view",
+        "importPath": "products.views",
+        "description": "products.views",
+        "isExtraImport": true,
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "Http404",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "django_app.asgi",
+        "description": "django_app.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "django_app.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-r_h347d99$j1*xt2i=ca*x(4-+ug@$w1q(n-a=34v%z!!i2%5w\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-r_h347d99$j1*xt2i=ca*x(4-+ug@$w1q(n-a=34v%z!!i2%5w\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"products\",",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"products\",\n    \"pages\",\n]",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"django_app.urls\"",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "ROOT_URLCONF = \"django_app.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [os.path.join(BASE_DIR,'templates')],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [os.path.join(BASE_DIR,'templates')],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"django_app.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "django_app.settings",
+        "description": "django_app.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "django_app.urls",
+        "description": "django_app.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", home_view, name=\"home\"),\n    path(\"about/\", about_view),\n    path(\"contact/\", contact_view),\n    path(\"social/\", social_view),\n    path(\"admin/\", admin.site.urls),\n    path(\"product/<int:id>\", product_detail_view),\n    path(\"create/\", product_create_view),\n]",
+        "detail": "django_app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "django_app.wsgi",
+        "description": "django_app.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "django_app.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "PagesConfig",
+        "kind": 6,
+        "importPath": "pages.apps",
+        "description": "pages.apps",
+        "peekOfCode": "class PagesConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'pages'",
+        "detail": "pages.apps",
+        "documentation": {}
+    },
+    {
+        "label": "home_view",
+        "kind": 2,
+        "importPath": "pages.views",
+        "description": "pages.views",
+        "peekOfCode": "def home_view(request, *args, **kwargs):\n    print(request, args, kwargs)\n    # return HttpResponse(\"<h1>Hello World</h1>\")\n    return render(request, \"home.html\")\ndef contact_view(request, *args, **kwargs):\n    print(request.__dict__)\n    return render(request, \"contact.html\")\ndef about_view(request, *args, **kwargs):\n    my_context = {\n        \"my_text\": \"This is about us\",",
+        "detail": "pages.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact_view",
+        "kind": 2,
+        "importPath": "pages.views",
+        "description": "pages.views",
+        "peekOfCode": "def contact_view(request, *args, **kwargs):\n    print(request.__dict__)\n    return render(request, \"contact.html\")\ndef about_view(request, *args, **kwargs):\n    my_context = {\n        \"my_text\": \"This is about us\",\n        \"my_number\": 15,\n        \"fruits\": [\"banana\", \"maçã\", \"uva\"],\n        \"numbers\": range(1, 11),\n    }",
+        "detail": "pages.views",
+        "documentation": {}
+    },
+    {
+        "label": "about_view",
+        "kind": 2,
+        "importPath": "pages.views",
+        "description": "pages.views",
+        "peekOfCode": "def about_view(request, *args, **kwargs):\n    my_context = {\n        \"my_text\": \"This is about us\",\n        \"my_number\": 15,\n        \"fruits\": [\"banana\", \"maçã\", \"uva\"],\n        \"numbers\": range(1, 11),\n    }\n    return render(request, \"about.html\", my_context)\ndef social_view(request, *args, **kwargs):\n    return render(request, \"social.html\")",
+        "detail": "pages.views",
+        "documentation": {}
+    },
+    {
+        "label": "social_view",
+        "kind": 2,
+        "importPath": "pages.views",
+        "description": "pages.views",
+        "peekOfCode": "def social_view(request, *args, **kwargs):\n    return render(request, \"social.html\")",
+        "detail": "pages.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0001_initial",
+        "description": "products.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Product',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=120)),",
+        "detail": "products.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0002_product_featured",
+        "description": "products.migrations.0002_product_featured",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('products', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='product',\n            name='featured',\n            field=models.BooleanField(default=True),\n        ),",
+        "detail": "products.migrations.0002_product_featured",
+        "documentation": {}
+    },
+    {
+        "label": "ProdutoAdmin",
+        "kind": 6,
+        "importPath": "products.admin",
+        "description": "products.admin",
+        "peekOfCode": "class ProdutoAdmin(admin.ModelAdmin):\n    list_display = (\"title\", \"price\")  # Campos exibidos na lista\n    list_filter = (\"title\", \"price\")  # Filtros disponíveis na barra lateral\n    search_fields = (\"title\",)  # Campo de pesquisa\nadmin.site.register(Product, ProdutoAdmin)",
+        "detail": "products.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ProductsConfig",
+        "kind": 6,
+        "importPath": "products.apps",
+        "description": "products.apps",
+        "peekOfCode": "class ProductsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'products'",
+        "detail": "products.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ProductForm",
+        "kind": 6,
+        "importPath": "products.forms",
+        "description": "products.forms",
+        "peekOfCode": "class ProductForm(forms.ModelForm):\n    class Meta:\n        model = Product\n        fields = [\"title\", \"description\", \"price\"]\n# class RawProductForm(forms.Form):\n#     title = forms.CharField(\n#         label=\"Nome do produto\",\n#         error_messages={\"required\": \"Insira o nome de um produto\"},\n#     )\n#     description = forms.CharField()",
+        "detail": "products.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CadastroForm",
+        "kind": 6,
+        "importPath": "products.forms",
+        "description": "products.forms",
+        "peekOfCode": "class CadastroForm(forms.Form):\n    nome = forms.CharField(\n        max_length=100,\n        label=\"Nome Completo\",\n        widget=forms.TextInput(\n            attrs={\"class\": \"form-control\", \"placeholder\": \"Seu nome\"}\n        ),\n    )\n    email = forms.EmailField(\n        label=\"E-mail\",",
+        "detail": "products.forms",
+        "documentation": {}
+    },
+    {
+        "label": "validar_cpf",
+        "kind": 2,
+        "importPath": "products.forms",
+        "description": "products.forms",
+        "peekOfCode": "def validar_cpf(cpf):\n    # Remove caracteres especiais\n    cpf = re.sub(r\"[^0-9]\", \"\", cpf)\n    if len(cpf) != 11 or not cpf.isdigit():\n        raise forms.ValidationError(\"CPF inválido. Deve ter 11 dígitos numéricos.\")\nclass CadastroForm(forms.Form):\n    nome = forms.CharField(\n        max_length=100,\n        label=\"Nome Completo\",\n        widget=forms.TextInput(",
+        "detail": "products.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "products.models",
+        "description": "products.models",
+        "peekOfCode": "class Product(models.Model):\n    title = models.CharField(max_length=120, blank=False, null=False)\n    description = models.TextField(blank=True, null=True)\n    price = models.DecimalField(\n        decimal_places=2, max_digits=10000, blank=False, null=False\n    )\n    summary = models.TextField(default='This is cool!')\n    featured = models.BooleanField(default=True)",
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "product_create_view",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def product_create_view(request):\n    my_form = CadastroForm()\n    context = {\"form\": my_form}\n    if request.method == 'POST':\n        my_form = CadastroForm(request.POST)\n        if my_form.is_valid():\n            # aqui é executada todas as funções com prefixo clean\n            # dentro da classe CadastroForm\n            # Se o formulário for válido, acesse os dados limpos\n            nome = my_form.cleaned_data[\"nome\"]",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "product_detail_view",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def product_detail_view(request, id:int):\n    try:\n        product = Product.objects.get(id=id)\n    except Product.DoesNotExist:\n        raise Http404\n    context = {\n        \"title\": product.title,\n        \"description\": product.description,\n    }\n    return render(request, \"product/detail.html\", context)",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_app.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

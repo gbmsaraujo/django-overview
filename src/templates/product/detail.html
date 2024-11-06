@@ -1,0 +1,16 @@
+{% extends 'base.html' %} 
+
+{% block content %}
+
+<h1>Detail Product</h1>
+
+<br />
+
+<h2>{{ title }}</h2>
+
+{% if description %}
+<p>{{ description }}</p>
+{% else %}
+<p>Coming soon....</p>
+{% endif %}
+{% endblock %}
